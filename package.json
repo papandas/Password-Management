@@ -1,0 +1,20 @@
+{
+  "name": "bgchanger",
+  "version": "1.0.0",
+  "description": "A web browser extension that allows the user to change the background color of any page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papandas/bgchanger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papandas/bgchanger/issues"
+  },
+  "homepage": "https://github.com/papandas/bgchanger#readme"
+}
